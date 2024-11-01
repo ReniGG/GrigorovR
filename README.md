@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GrigorovR
+- 👋 Hi, I’m Reni.
 - 🚀 I'm new to coding. Right now, I'm focusing on the basics, and taking things one step at a time.
 - 🌱 I’m currently working through the basics of Python.
 - 📖 My goal is to build a solid foundation and try out some small projects as I go.
